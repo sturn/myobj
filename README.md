@@ -1,0 +1,2 @@
+# myobj
+the firest obj
